@@ -12,8 +12,8 @@ To set up local LLMs using LM Studio:
 1. Download and install [LM Studio](https://example.com/lm-studio).
 2. Select and install the `gemma-2b-it-GGUF` model following the installation guide provided by LM Studio.
 
-### Integration with local LLMs with a Simple Example
-### Suggestions for Keeping a Healthy Body from the Perspective of a Doctor
+- Integration with local LLMs with a Simple Example
+- Suggestions for Keeping a Healthy Body from the Perspective of a Doctor
 
 ## Setting up Userproxy agent & Assistant agent in a GroupChat
 
